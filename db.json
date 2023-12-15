@@ -1,0 +1,89 @@
+{
+"products": [
+  {
+    "brand": "Brand-1",
+    "category": "Category-1",
+    "description": "Description for product 1",
+    "discountPercentage": 0.1,
+    "id": 1,
+    "images": [
+      "image-1-0",
+      "image-1-1",
+      "image-1-2"
+    ],
+    "price": 100,
+    "rating": 4.4,
+    "stock": 10,
+    "thumbnail": "thumbnail-1",
+    "title": "Title-1"
+  },
+  {
+    "brand": "Brand-2",
+    "category": "Category-2",
+    "description": "Description for product 2",
+    "discountPercentage": 0.2,
+    "id": 2,
+    "images": [
+      "image-2-0",
+      "image-2-1",
+      "image-2-2"
+    ],
+    "price": 200,
+    "rating": 4.3,
+    "stock": 20,
+    "thumbnail": "thumbnail-2",
+    "title": "Title-2"
+  },
+  {
+    "brand": "Brand-3",
+    "category": "Category-3",
+    "description": "Description for product 3",
+    "discountPercentage": 0.3,
+    "id": 3,
+    "images": [
+      "image-3-0",
+      "image-3-1",
+      "image-3-2"
+    ],
+    "price": 300,
+    "rating": 4.2,
+    "stock": 30,
+    "thumbnail": "thumbnail-3",
+    "title": "Title-3"
+  },
+  {
+    "brand": "Brand-4",
+    "category": "Category-4",
+    "description": "Description for product 4",
+    "discountPercentage": 0.4,
+    "id": 4,
+    "images": [
+      "image-4-0",
+      "image-4-1",
+      "image-4-2"
+    ],
+    "price": 400,
+    "rating": 4.1,
+    "stock": 40,
+    "thumbnail": "thumbnail-4",
+    "title": "Title-4"
+  },
+  {
+    "brand": "Brand-5",
+    "category": "Category-5",
+    "description": "Description for product 5",
+    "discountPercentage": 0.5,
+    "id": 5,
+    "images": [
+      "image-5-0",
+      "image-5-1",
+      "image-5-2"
+    ],
+    "price": 500,
+    "rating": 4.0,
+    "stock": 50,
+    "thumbnail": "thumbnail-5",
+    "title": "Title-5"
+  }
+]
+}
